@@ -1,0 +1,24 @@
+baseURL = 'https://akostevski.com/'
+languageCode = 'en-us'
+title = 'Anton Kostevski'
+theme = 'PaperMod'
+
+# Enable Git Info for lastmod date
+enableGitInfo = true
+
+# Build settings
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  # Enable dark mode toggle
+  defaultTheme = "auto"
+  # Show reading time
+  ShowReadingTime = true
+  # Show post date
+  ShowPostDate = true
+  # Show share buttons
+  ShowShareButtons = true
+  # Show code copy buttons
+  ShowCodeCopyButtons = true
